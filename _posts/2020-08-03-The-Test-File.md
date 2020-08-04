@@ -2,4 +2,4 @@
 layout: "post"
 ---
 
-Some Content
+Some Content. This is a test page.
